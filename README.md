@@ -1,2 +1,3 @@
 # AudioManager
 Funny little Soundboard program I made to play soundeffects while playing DnD with friends
+Unfortunately, the source code I currently have on hand is kinda out of date. It was an old build I happened to have on my desktop, which wasn't the most well developed one apparently. Apparently, when transfering my files to my new laptop, the workspaces were not transfered, so I need to get that done. It does seem that the jar file i had had with the code is one of the more developed version (or atleast, a much more developed version) so look at that one for now. I'll work on getting ahold of the actual sourcecode again soon.
